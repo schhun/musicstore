@@ -1,0 +1,1 @@
+Click on product.html to preview application
